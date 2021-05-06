@@ -701,7 +701,9 @@ ul {
 
 .portfolio-list-item-description > p {
   font-family: var(--main-font);
+  font-weight: 400;
   font-size: 18px;
+  line-height: 28px;
   margin-top: 49px;
   margin-bottom: 49px;
   margin-left: 24px;
